@@ -17,7 +17,7 @@
       :absolute="!fixed"
       app
     >
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>Solelia - Incubateur EuraTechnologies, 165 Av. de Bretagne, 59000 Lille - France</span>
     </v-footer>
   </v-app>
 </template>

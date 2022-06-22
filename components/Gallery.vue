@@ -1,3 +1,3 @@
 <template>
-  <h1>Gallery</h1>
+  <h1>Gallery - TODO</h1>
 </template>
