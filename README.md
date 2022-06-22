@@ -5,6 +5,9 @@
  * using NuxtJS framework in favor of SSR rendering to consider SEO
  * Video preview instead of including directly the video, no autoplay, no preload
  * disable NuxtJS link preload completly, see https://nuxtjs.org/docs/configuration-glossary/configuration-render/#resourcehints
+ * format d'image optimisé : webp
+ * image non redimensionné
+ * contenu de texte écourté, serait afficher complétement sur une fiche production
 
 ![GreenIT](docs/greenit_assessment.png)
 

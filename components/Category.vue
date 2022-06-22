@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <v-container>
     <h2>Product Category</h2>
     <v-container style="min-width: 260px">
       <v-row style="text-align: center" dense>
@@ -8,9 +8,9 @@
           <br/>
           {{ category.alt }}
         </v-col>
-      </v-row> 
+      </v-row>
     </v-container>
-  </div>
+  </v-container>
 </template>
 
 <script>

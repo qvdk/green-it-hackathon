@@ -1,3 +1,5 @@
 <template>
-  <h1>Gallery - TODO</h1>
+  <v-container>
+    <h2>Gallery - TODO</h2>
+  </v-container>
 </template>
