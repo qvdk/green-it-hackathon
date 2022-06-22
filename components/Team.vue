@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <v-container>
     <h2>Magic Team</h2>
     <v-container>
       <v-row style="text-align: center" no-gutters>
@@ -8,9 +8,9 @@
           <br/>
           {{ member.alt }} - {{ member.desc }}
         </v-col>
-      </v-row> 
+      </v-row>
     </v-container>
-  </div>
+  </v-container>
 </template>
 
 <script>
