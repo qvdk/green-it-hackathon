@@ -66,5 +66,15 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  render: {
+    // https://nuxtjs.org/docs/configuration-glossary/configuration-render/#resourcehints
+    resourceHints: false
+  },
+
+  router: {
+    // https://nuxtjs.org/docs/configuration-glossary/configuration-router#prefetchlinks
+    prefetchLinks: false
   }
 }
