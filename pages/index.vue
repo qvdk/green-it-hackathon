@@ -1,8 +1,8 @@
 <template>
-  <fragment>
+  <div>
     <Video />
     <Category />
     <Gallery />
     <Team />
-  </fragment>
+  </div>
 </template>
