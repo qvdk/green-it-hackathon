@@ -8,6 +8,8 @@
  * format d'image optimisé : webp
  * image non redimensionné
  * contenu de texte écourté, serait afficher complétement sur une fiche production
+ * galerie conseils départée dans une autre page
+ * déporté également la team?
 
 ![GreenIT](docs/greenit_assessment.png)
 
