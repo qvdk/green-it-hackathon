@@ -1,6 +1,5 @@
 <template>
   <v-row dense>
-    <Video></Video>
     <v-col
       v-for="product in products"
       :key="product.name"
@@ -9,6 +8,7 @@
     >
       <Product :product="product" />
     </v-col>
+  <Video></Video>
   </v-row>
 </template>
 

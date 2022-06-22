@@ -4,7 +4,7 @@
     <v-container style="min-width: 260px">
       <v-row style="text-align: center" dense>
         <v-col v-for="category in categories" :key="category.id" cols="6" xs="6" sm="3" md="3" lg="3" xl="3">
-          <img :src="category.url" :alt="category.alt" />
+          <a :href="category.route"><img :src="category.url" :alt="category.alt" /></a>
           <br/>
           {{ category.alt }}
         </v-col>
@@ -18,10 +18,10 @@ export default {
   data: () => {
     return{
       categories: [
-       { url: 'contenant.webp', alt: 'Containers' },
-       { url: 'outil.webp', alt: 'Tools' },
-       { url: 'plantation.webp', alt: 'Plantations' },
-       { url: 'substrat_alternative.webp', alt: 'Substract Alternative' }
+       { url: 'contenant.webp', alt: 'Containers', route: '/category' },
+       { url: 'outil.webp', alt: 'Tools', route: '/category' },
+       { url: 'plantation.webp', alt: 'Plantations', route: '/category' },
+       { url: 'substrat_alternative.webp', alt: 'Substract Alternative', route: '/category' }
       ]
     }
   }
