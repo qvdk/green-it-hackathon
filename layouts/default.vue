@@ -4,7 +4,7 @@
       fixed
       app
     >
-      <v-img src="solelia.webp" max-width="28"></v-img>
+      <a href="/"><v-img src="solelia.webp" max-width="28" /></a>
       <v-spacer />
       <v-toolbar-title v-text="title" />
     </v-app-bar>
