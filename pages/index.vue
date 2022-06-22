@@ -1,14 +1,14 @@
 <template>
-  <v-container>
-    <Video
-      :video="category.video"
-      :poster="category.videoPoster"
-    >
-    </Video>
-    <Category />
-    <Gallery />
-    <Team />
-  </v-container>
+    <v-row dense>
+      <Video
+        :video="category.video"
+        :poster="category.videoPoster"
+      >
+      </Video>
+      <Category />
+      <Gallery />
+      <Team />
+    </v-row>
 </template>
 
 <script>
