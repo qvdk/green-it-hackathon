@@ -4,7 +4,7 @@
     <v-container>
       <v-row style="text-align: center" no-gutters>
         <v-col v-for="member in members" :key="member.id">
-          <img :src="member.url" :alt="member.alt" />
+          <img :src="member.url" :alt="member.alt" loading="lazy" />
           <br/>
           {{ member.alt }} - {{ member.desc }}
         </v-col>
