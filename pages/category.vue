@@ -1,5 +1,10 @@
 <template>
   <v-row dense>
+    <Video
+      :video="category.video"
+      :poster="category.videoPoster"
+    >
+    </Video>
     <v-col
       v-for="product in products"
       :key="product.name"
@@ -8,7 +13,6 @@
     >
       <Product :product="product" />
     </v-col>
-  <Video></Video>
   </v-row>
 </template>
 
@@ -19,7 +23,11 @@ export default {
     components: { Product },
     data () {
       return {
-        category: 'Carré potager',
+        category: {
+          name: 'Carré potager',
+          videoPoster: 'video_preview.webp',
+          video: 'flower.webm'
+        },
         products: [
           {
             name: "Carré potager MON PETIT POTAGER L.75 x l.35 x H.36 cm",
