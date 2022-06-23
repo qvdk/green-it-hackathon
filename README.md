@@ -12,6 +12,7 @@
  * fournir une print CSS
  * LazyLoading sur les images hors de la ligne de flotaison
  * Utilisation des fonts presentes par defauts
+ * Valider son code avec un linter
 
 ![GreenIT](docs/greenit_assessment.png)
 
