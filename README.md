@@ -13,6 +13,7 @@
  * LazyLoading sur les images hors de la ligne de flotaison
  * Utilisation des fonts presentes par defauts
  * Valider son code avec un linter
+ * W3C Compliant
 
 ![GreenIT](docs/greenit_assessment.png)
 
