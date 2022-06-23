@@ -1,9 +1,9 @@
 <template>
   <v-container>
-    <h2>Product Category</h2>
+    <div class="text-h5">Product Category</div>
     <v-container style="min-width: 260px">
       <v-row style="text-align: center" dense>
-        <v-col v-for="category in categories" :key="category.id" cols="6" xs="6" sm="3" md="3" lg="3" xl="3">
+        <v-col v-for="category in categories" :key="category.id" cols="6" sm="3" md="3" lg="3" xl="3">
           <a :href="category.route"><img :src="category.url" :alt="category.alt" /></a>
           <br/>
           {{ category.alt }}
