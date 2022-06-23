@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <div class="text-h5">Product Category</div>
+    <div class="text-h5">Catégorie produits</div>
     <v-container style="min-width: 260px">
       <v-row style="text-align: center" dense>
         <v-col v-for="category in categories" :key="category.id" cols="6" sm="3" md="3" lg="3" xl="3">
