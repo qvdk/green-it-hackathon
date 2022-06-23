@@ -3,7 +3,7 @@
     class="d-flex flex-row"
   >
 
-    <v-img max-width="30%" max-height="200" :src="product.image"></v-img>
+    <v-img max-width="30%" max-height="200" :src="product.image" loading="lazy"></v-img>
 
     <v-card>
 
