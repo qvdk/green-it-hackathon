@@ -2,7 +2,7 @@
   <v-container>
     <v-card>
       <v-img src="advice1.webp" loading="lazy"></v-img>
-      <v-card-title>Des solutions durables comme responsable...</v-card-title>
+      <v-card-title>Des solutions durables comme responsables...</v-card-title>
       <v-card-text>
 Mon Petit Potager a fait le choix de s'investir durablement pour l'environnement. Ce choix se traduit au travers de plusieurs action, à commencer par l'utilisation d'une matière première noble et active dans la gestion de l'environnement, le bois. Nos potagers sont exclusivement réalisés en Douglas, un bois naturellement résistant de classe 3, et sont donc non traités. Tous les bois utilisés pour la fabrication de nos potagers sont issus de forêts françaises gérées durablement. Ils possèdent donc les labels Bois de France et PEFC. Enfin, Monnet-Sève Sougy s'engage dans la valorisation de 100% de la matière première. Ainsi, tous les résidus des sciages sont revalorisés et retransformés : pâte à papier, pellets, ... : 0 déchets !
 
