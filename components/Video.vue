@@ -1,8 +1,8 @@
 <template>
   <v-container class="text-center">
-    <video controls :poster="poster" preload="none" width="100%" style="max-width: 700px">
+    <video controls :poster="poster" preload="none" style="max-width: 700px; width: 100%;">
       <source :src="video" />
-      Votre navigateur ne supporte pas les vidéos embarqués.
+      Votre navigateur ne supporte pas les vidéos embarquées.
     </video>
   </v-container>
 </template>
