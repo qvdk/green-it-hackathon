@@ -10,6 +10,7 @@
  * contenu de texte écourté, serait afficher complétement sur une fiche production
  * galerie conseils départée dans une autre page
  * fournir une print CSS
+ * LazyLoading sur les images hors de la ligne de flotaison
 
 ![GreenIT](docs/greenit_assessment.png)
 
