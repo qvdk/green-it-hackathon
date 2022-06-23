@@ -18,10 +18,10 @@ export default {
   data: () => {
     return{
       categories: [
-       { url: 'contenant.webp', alt: 'Containers', route: '/category' },
-       { url: 'outil.webp', alt: 'Tools', route: '/category' },
+       { url: 'contenant.webp', alt: 'Contenants', route: '/category' },
+       { url: 'outil.webp', alt: 'Outils', route: '/category' },
        { url: 'plantation.webp', alt: 'Plantations', route: '/category' },
-       { url: 'substrat_alternative.webp', alt: 'Substract Alternative', route: '/category' }
+       { url: 'substrat_alternative.webp', alt: 'Substrat alternatif', route: '/category' }
       ]
     }
   }
