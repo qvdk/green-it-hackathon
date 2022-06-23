@@ -1,7 +1,7 @@
 <template>
   <v-container>
-    <v-card flat>
-      <h2>Des solutions durables comme responsable ...</h2>
+    <v-card outlined color="transparent">
+      <div class="text-h5">Des solutions durables comme responsable ...</div>
       <v-img
         src="advice1.webp"
       >

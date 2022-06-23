@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <h2>Magic Team</h2>
+    <div class="text-h5">Magic Team</div>
     <v-container>
       <v-row style="text-align: center" no-gutters>
         <v-col v-for="member in members" :key="member.id">
