@@ -10,7 +10,7 @@
         Mon Petit Potager a fait le choix de s'investir durablement pour l'environnement.
       </v-card-text>
       <v-card-actions>
-        <v-btn to="/advices" nuxt>
+        <v-btn to="/advices" nuxt color="indigo">
           En savoir plus
         </v-btn>
       </v-card-actions>

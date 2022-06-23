@@ -38,6 +38,7 @@
         <v-card-actions>
           <v-spacer />
           <v-btn
+            color="indigo"
             @click="addToCart(product)"
           >
             Acheter
