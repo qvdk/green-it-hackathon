@@ -17,14 +17,14 @@ This hackathon was organised with [#thegreencompagnon](https://www.linkedin.com/
  * using NuxtJS framework in favor of SSR rendering to consider SEO
  * Video preview instead of including directly the video, no autoplay, no preload
  * disable NuxtJS link preload completly, see https://nuxtjs.org/docs/configuration-glossary/configuration-render/#resourcehints
- * format d'image optimisé : webp
- * image non redimensionné
- * contenu de texte écourté, serait afficher complétement sur une fiche production
- * galerie conseils départée dans une autre page
- * fournir une print CSS
- * LazyLoading sur les images hors de la ligne de flotaison
- * Utilisation des fonts presentes par defauts
- * Valider son code avec un linter
+ * optimized image format : webp
+ * no redimension of images, used directly in the expected size for mobile
+ * texts shorten to the displayed ones only.
+ * advice gallery moved to another page
+ * CSS print to reduce print cost
+ * LazyLoading on image under the floating point of the viewport
+ * Use of default fonts provided by all browsers
+ * linter
  * W3C Compliant
 
 ![GreenIT](docs/greenit_assessment.png)
