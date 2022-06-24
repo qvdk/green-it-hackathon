@@ -30,7 +30,7 @@ export default {
         },
         products: [
           {
-            name: "Carré potager MON PETIT POTAGER L.75 x l.35 x H.36 cm",
+            name: "Carré potager MON PETIT POTAGER L.75 x l.35 x H.36cm",
             image: "product1.webp",
             description: "La JARDINIERE DESIGN est un potager au naturel idéal...",
             rate: 3.2,
@@ -38,7 +38,7 @@ export default {
             price: 59.0
           },
           {
-            name: "Terreau universel GEOLIA, 50 l",
+            name: "Terreau universel GEOLIA, 50l",
             image: "product2.webp",
             description: "Pour toutes plantes, favorise la reprise et la croissance des végétaux.",
             rate: 4.5,
