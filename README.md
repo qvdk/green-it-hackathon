@@ -1,4 +1,16 @@
 # solelia
+Hackathon project for the Adeo DevSummit 2022 about the GreenIT.
+
+[![Hackathon rules](docs/hackathon.webp)](https://docs.google.com/presentation/d/1gmZaVYzy-l5q2rMvK8p0Q_9E2OaMeI-AwZNi_yXCrAU/edit#slide=id.g6e4ab71bae_0_4)
+
+We win the Gold Price 🏆🏆🏆 with this project. We prove it is possible to reduce our ecological impact by using GreenIT concepts with an advanced framework usable in a real world application.
+
+Learn more about the concepts we applied in our introduction.
+[![Introduction of the GreenIT concepts used for this hackathon](docs/hackathon2.webp)](https://docs.google.com/presentation/d/1mAZgKVaVqy9z6aBRtAyvv9x_i-exKW4Zs2mWCj3lATs/edit?usp=sharing)
+
+See more on [linkedin](https://www.linkedin.com/posts/quentin-vandekerckhove-6a06293a_thegreencompagnon-hackathon-ecoconception-activity-6945997982131499008-prGr?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+This hackathon was organised with [#thegreencompagnon](https://www.linkedin.com/company/thegreencompagnon/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A71375305)
 
 ## GreenIT consideration
 
